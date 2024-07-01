@@ -1,4 +1,5 @@
 ## Sistem Terdistribusi
+
 ### Identitas Kelompok 2
 
 | No  | Nama                  | NPM        |
@@ -7,6 +8,7 @@
 | 2.  | Bagus Ade Prayoga     | 21SA1205   |
 | 3.  | M. Najmi              | 22SA11B281 |
 | 4.  | Hakim Annaisaburi     | 23SA11B030 |
+
 ### Dosen dan Asisten Dosen
 
 | No  | Nama                 | Status        |
@@ -16,14 +18,15 @@
 | 3.  | Aldona Septiana      | Asisten Dosen |
 
 > **REST API**
-> 
+>
 > REST API digunakan untuk menjembatani komunikasi pertukaran data dari client server ke database, client dapat berupa web/aplikasi "Cari Event", dashboard konsumen, dashboard kreator, dashboard admin, dan sebagainya
-> 
+>
 > **Frontend Client**
-> 
+>
 > Frontend terdiri dari 3 halaman utama, yaitu Web "Cari Event", Dashboard Creator, Dashboard Customer, dan Dashboard Admin
 
 ### Stack
+
 #### Backend API
 
 - Express Js
@@ -32,15 +35,27 @@
 - JSON Web Token
 
 #### Frontend Client
+
 Repository:
 
 - Vue Js
 - Pinia Js
 - Axios
 
-### Repository
 ```bash
-git clone https://
+git clone https://github.com/faizaungguh/cari-event-docs
+```
+
+### Repository Backend
+
+```bash
+git clone https://github.com/faizaungguh/cari-event-backend
+```
+
+### Repository Frontend
+
+```bash
+git clone https://github.com/faizaungguh/cari-event-frontend
 ```
 
 ### BaseUrl
@@ -48,6 +63,7 @@ git clone https://
 Berikut adalah contoh Based URL yang digunakan untuk mengakses
 
 BaseUrl :
+
 ```url
 http://localhost:3000/api/v1
 ```
