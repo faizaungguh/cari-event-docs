@@ -1,3 +1,5 @@
+# Auth Group Endpoint
+
 ## Admin
 
 ### Login

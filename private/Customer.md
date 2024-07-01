@@ -1,3 +1,5 @@
+# Customer Group Endpoint
+
 ## Get All customer
 
 | Method | Path                  | Role     | Params | Auth  |

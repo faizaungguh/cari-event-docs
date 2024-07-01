@@ -1,3 +1,5 @@
+# Event Group Endpoint
+
 ## Create Event
 
 | Method | Path              | Role    | Params             | Auth |

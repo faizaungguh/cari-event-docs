@@ -60,12 +60,20 @@ git clone https://github.com/faizaungguh/cari-event-frontend
 
 ### BaseUrl
 
-Berikut adalah contoh Based URL yang digunakan untuk mengakses
+Berikut adalah contoh Based Url untuk backend yang digunakan untuk mengakses
 
-BaseUrl :
+#### BaseUrl REST API:
 
 ```url
 http://localhost:3000/api/v1
+```
+
+Berikut adalah contoh Based Url untuk backend yang digunakan untuk mengakses
+
+#### BaseUrl Client:
+
+```url
+http://localhost:5173
 ```
 
 Menyertakan token access berupa JWT untuk Endpoint yang diproteksi
