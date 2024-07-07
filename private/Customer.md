@@ -35,7 +35,7 @@ Response
 	],
 	"count" : 2,
 	"page" : 1,
-	"api-name" : "Cari Event API v1"
+	"api-info" : "Cari Event API v1"
 }
 ```
 
@@ -60,7 +60,7 @@ Response
 		"address" : "Kalibagor", //string
 		"contact" : "85180180180" //string
 	},
-	"api-name" : "Cari Event API v1"
+	"api-info" : "Cari Event API v1"
 }
 ```
 
@@ -99,7 +99,7 @@ Response
 		"address" : "Kalibagor", //string
 		"contact" : "85180180180" //string
 	},
-	"api-name" : "Cari Event API v1"
+	"api-info" : "Cari Event API v1"
 }
 ```
 
@@ -114,6 +114,6 @@ Response
 ```json
 {
   "message": "Data customer By ID {id} is Deleted",
-  "api-name": "Cari Event API v1"
+  "api-info": "Cari Event API v1"
 }
 ```

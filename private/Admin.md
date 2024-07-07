@@ -27,7 +27,7 @@ Response
 		"password" : "yarahasia", //string(encrypt)
 		"name" : "Ungguh F" //string
 	},
-	"api-name" : "Cari Event API v1"
+	"api-info" : "Cari Event API v1"
 }
 ```
 
@@ -58,7 +58,7 @@ Response
 	],
 	"count" : 2,
 	"page" : 1,
-	"api-name" : "Cari Event API v1"
+	"api-info" : "Cari Event API v1"
 }
 ```
 
@@ -79,7 +79,7 @@ Response
 		"password" : "rahasia", //string(encrypt)
 		"name" : "Faiza Ungguh" //string
 	},
-	"api-name" : "Cari Event API v1"
+	"api-info" : "Cari Event API v1"
 }
 ```
 
@@ -110,7 +110,7 @@ Response
 		"password" : "yarahasia", //string(encrypt)
 		"name" : "Ungguh F" //string
 	},
-	"api-name" : "Cari Event API v1"
+	"api-info" : "Cari Event API v1"
 }
 ```
 
@@ -125,6 +125,6 @@ Response
 ```json
 {
   "message": "Data Admin By ID {id} is Deleted",
-  "api-name": "Cari Event API v1"
+  "api-info": "Cari Event API v1"
 }
 ```

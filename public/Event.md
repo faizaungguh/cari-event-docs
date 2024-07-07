@@ -91,7 +91,7 @@ Response
 			"logo" : "/path"
 		}
 	},
-	"api-name" : "Cari Event API v1"
+	"api-info" : "Cari Event API v1"
 }
 ```
 
@@ -117,7 +117,7 @@ Response
 	],
 	"count" : 2,
 	"page" : 1,
-	"api-name" : "Cari Event API v1"
+	"api-info" : "Cari Event API v1"
 }
 ```
 
@@ -174,7 +174,7 @@ Response
 			"logo" : "/path"
 		}
 	},
-	"api-name" : "Cari Event API v1"
+	"api-info" : "Cari Event API v1"
 }
 ```
 
@@ -269,7 +269,7 @@ Response
 			"logo" : "/path"
 		}
 	},
-	"api-name" : "Cari Event API v1"
+	"api-info" : "Cari Event API v1"
 }
 ```
 
@@ -284,6 +284,6 @@ Response
 ```json
 {
   "message": "Data Event By ID {id} is Deleted",
-  "api-name": "Cari Event API v1"
+  "api-info": "Cari Event API v1"
 }
 ```

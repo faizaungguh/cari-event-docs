@@ -33,7 +33,7 @@ Response Body Success :
 	],
 	"count" : 2,
 	"page" : 1,
-	"api-name" : "Cari Event API v1"
+	"api-info" : "Cari Event API v1"
 }
 ```
 
@@ -78,7 +78,7 @@ Response
 			"permissionLicense" : "/path", // string | path file | permissionLicense usaha
 		}
 	},
-	"api-name" : "Cari Event API v1"
+	"api-info" : "Cari Event API v1"
 }
 ```
 
@@ -157,7 +157,7 @@ Response
 			"permissionLicense" : "/path", // string | path file | permissionLicense usaha
 		}
 	},
-	"api-name" : "Cari Event API v1"
+	"api-info" : "Cari Event API v1"
 }
 ```
 
@@ -172,6 +172,6 @@ Response
 ```json
 {
   "message": "Data Creators By ID {id} is Deleted",
-  "api-name": "Cari Event API v1"
+  "api-info": "Cari Event API v1"
 }
 ```

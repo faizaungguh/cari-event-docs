@@ -25,7 +25,7 @@ Response
 	"data" :{
 		"token" : {randomToken} //jWT - payload(id, username)
 	},
-	"api-name" : "Cari Event API v1"
+	"api-info" : "Cari Event API v1"
 }
 ```
 
@@ -56,7 +56,7 @@ Response
 	"data" :{
 		"token" : {randomToken} //jWT - payload {id, username}
 	},
-	"api-name" : "Cari Event API v1"
+	"api-info" : "Cari Event API v1"
 }
 ```
 
@@ -83,7 +83,7 @@ Response
 	"data" :{
 		"token" : {randomToken} //jWT - payload(id, username)
 	},
-	"api-name" : "Cari Event API v1"
+	"api-info" : "Cari Event API v1"
 }
 ```
 
@@ -114,7 +114,7 @@ Response
 	"data" :{
 		"token" : {randomToken} //jWT - payload(id, username)
 	},
-	"api-name" : "Cari Event API v1"
+	"api-info" : "Cari Event API v1"
 }
 ```
 
@@ -137,7 +137,7 @@ Response
 	"data" :{
 		"token" : {randomToken} //jWT - payload(id, username)
 	},
-	"api-name" : "Cari Event API v1"
+	"api-info" : "Cari Event API v1"
 }
 ```
 
@@ -155,6 +155,6 @@ Response
 ```json
 {
   "message": "Berhasil Logout",
-  "api-name": "Cari Event API v1"
+  "api-info": "Cari Event API v1"
 }
 ```
